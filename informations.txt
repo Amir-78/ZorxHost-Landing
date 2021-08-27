@@ -1,0 +1,2 @@
+Website IP: 173.249.35.186
+Website work on: nginx
